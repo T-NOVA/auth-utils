@@ -500,9 +500,8 @@ func InitMsgs() {
         }
     ]
 }`
-}
 
-staticMsgs[25] =
+	staticMsgs[25] =
 		`
 {
     "metadata":
@@ -516,9 +515,8 @@ staticMsgs[25] =
         }
     ]
 }`
-}
 
-staticMsgs[26] =
+	staticMsgs[26] =
 		`
 {
     "metadata":
@@ -533,3 +531,4 @@ staticMsgs[26] =
     ]
 }`
 }
+
